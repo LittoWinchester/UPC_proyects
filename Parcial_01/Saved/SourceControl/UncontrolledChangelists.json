@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealEngine/Proyectos/Parcial_01/Content/Level_parcial/Blueprints/BP_ENEMY.uasset",
+				"D:/UnrealEngine/Proyectos/Parcial_01/Content/Level_parcial/Blueprints/BP_Bullet.uasset",
+				"D:/UnrealEngine/Proyectos/Parcial_01/Content/Parcial_Level.umap",
+				"D:/UnrealEngine/Proyectos/Parcial_01/Content/Level_parcial/Blueprints/BP_PLAYER.uasset"
+			]
+		}
+	]
+}
